@@ -1,0 +1,2 @@
+# MyParallaxHeaderViewPager
+custom Android-ParallaxHeaderViewPager
