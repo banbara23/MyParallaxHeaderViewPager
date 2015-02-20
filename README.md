@@ -1,3 +1,5 @@
 # MyParallaxHeaderViewPager
 custom Android-ParallaxHeaderViewPager
-# MyParallaxHeaderViewPager
+
+kmshack/Android-ParallaxHeaderViewPager
+https://github.com/kmshack/Android-ParallaxHeaderViewPager
