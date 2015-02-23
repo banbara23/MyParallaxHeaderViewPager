@@ -41,8 +41,15 @@ android {
 	}
 }
 
+allprojects {
+	repositories {
+		jcenter()
+	}
+}
+
 dependencies {
 	compile 'com.android.support:appcompat-v7:18.0.+'
 	compile 'com.android.support:support-v4:21.0.3'
 	compile fileTree(dir: 'libs', include: '*jar')
+	compile 'com.shamanland:fab:0.0.8'
 }
