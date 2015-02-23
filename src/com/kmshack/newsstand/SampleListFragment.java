@@ -49,6 +49,7 @@ public class SampleListFragment extends ScrollTabHolderFragment implements OnScr
 
 		View placeHolderView = inflater.inflate(R.layout.view_header_placeholder, mListView, false);
 		mListView.addHeaderView(placeHolderView);
+		// FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
 
 		return v;
 	}
